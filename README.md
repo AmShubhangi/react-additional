@@ -1,6 +1,6 @@
 =========================================== Customize Here ==================================
 In this repo I have implemented the dummy examples of COntext API, Memoization, React.memo, useCallback and many others. Do mention if any example you want guys. Thank you.
-===========================================                ==================================
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
