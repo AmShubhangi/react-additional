@@ -14,8 +14,6 @@ function App() {
     // UserProvide is providing the value to HomePage comp. using value prop.
     // 
     <>
-
-
       <BrowserRouter>
 
         <ul style={{ display: 'flex', padding: 4, listStyle: 'none', margin: 5 }}>
